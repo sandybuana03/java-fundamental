@@ -8,4 +8,4 @@
   1. [Luas Lingkaran](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaran.java)
   2. [Luas Lingkaran (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaranInput.java)
   3. [Hitung Rata-Rata (3 Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/HitungRataRata.java)
-  4. 
+  4. [Konversi Detik (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/KonversiDetik.java)
