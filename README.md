@@ -6,3 +6,5 @@
   3. [Identitas (DialogBox)](https://github.com/sandybuana03/java-fundamental/blob/main/IdentitasDialogBox.java)
 #### BAB 2
   1. [Luas Lingkaran](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaran.java)
+  2. [Luas Lingkaran (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaranInput.java)
+  3. 
