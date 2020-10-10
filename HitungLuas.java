@@ -21,6 +21,3 @@ public class HitungLuas {
       System.out.println("adalah = " + luas);
     }
 }
-
-
-
