@@ -1,5 +1,6 @@
 ## Pemrograman Berorientasi Objek Kelas 11 Rekayasa Perangkat Lunak
 
 #### BAB 1
-  1. [Dasar Java](https://github.com/sandybuana03/pbo11)
-  2. [Dasar Java](https://github.com/sandybuana03/pbo11)
+  1. [Identitas](https://github.com/sandybuana03/java-fundamental/blob/main/Identitas.java)
+  2. [Hitung Ekspresi](https://github.com/sandybuana03/java-fundamental/blob/main/HitungEkspresi.java)
+  2. [Identitas (DialogBox)](https://github.com/sandybuana03/java-fundamental/blob/main/IdentitasDialogBox.java)
