@@ -1,5 +1,5 @@
 //contoh program hitung luas lingkaran
-public class HitungLuas {
+public class LuasLingkaran {
     public static void main(String[]args) {
         
       //deklarasi variabel untuk jarijari & luas
