@@ -4,4 +4,5 @@
   1. [Identitas](https://github.com/sandybuana03/java-fundamental/blob/main/Identitas.java)
   2. [Hitung Ekspresi](https://github.com/sandybuana03/java-fundamental/blob/main/HitungEkspresi.java)
   3. [Identitas (DialogBox)](https://github.com/sandybuana03/java-fundamental/blob/main/IdentitasDialogBox.java)
-  4. [Luas Lingkaran](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaran.java)
+#### BAB 2
+  1. [Luas Lingkaran](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaran.java)
