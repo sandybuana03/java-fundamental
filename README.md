@@ -2,11 +2,14 @@
 
 #### BAB 0 Teori Pemrograman Java
   1. [Kata Kunci Java](https://github.com/sandybuana03/java-fundamental/blob/main/KataKunci.md)
+  2. [Pengenal Java](https://github.com/sandybuana03/java-fundamental/blob/main/Pengenal.md)
+  
   
 #### BAB 1 Pengenalan Pemrograman Java
   1. [Identitas](https://github.com/sandybuana03/java-fundamental/blob/main/Identitas.java)
   2. [Hitung Ekspresi](https://github.com/sandybuana03/java-fundamental/blob/main/HitungEkspresi.java)
   3. [Identitas (DialogBox)](https://github.com/sandybuana03/java-fundamental/blob/main/IdentitasDialogBox.java)
+
 
 #### BAB 2 Pemrograman Elementer 
   1. [Luas Lingkaran](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaran.java)
