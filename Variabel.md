@@ -4,9 +4,9 @@
 - Dikatakan variabel, karena nilai yang ditugaskan kepadanya bisa diubah.
 - variabel digunakan untuk menggambarkan data dengan tipe tertentu.
 - sintak untuk mendeklarasikan variabel adalah :
- tipedata namaVariabel;
+ <br>tipedata namaVariabel;
  
 - contoh :
-int hitung;
-double tinggi;
-double luas;
+<br>int hitung;
+<br>double tinggi;
+<br>double luas;
