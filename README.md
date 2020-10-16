@@ -1,7 +1,7 @@
 ## Fundamental Pemrograman Java
 
 #### BAB 0 Teori Pemrograman Java
-  1. [Identitas](https://github.com/sandybuana03/java-fundamental/blob/main/Identitas.java)
+  1. [Kata Kunci Java](https://github.com/sandybuana03/java-fundamental/blob/main/KataKunci.md)
   
 #### BAB 1 Pengenalan Pemrograman Java
   1. [Identitas](https://github.com/sandybuana03/java-fundamental/blob/main/Identitas.java)
