@@ -114,3 +114,80 @@
     <td>Kurang dari sama dengan</td>
   </tr>
 </table>
+
+
+
+### 4. Operator Logika
+
+- berfungsi hampir sama dengan operator pembanding, namun menggunakan 3 operator yaitu AND, OR, NOT.
+<table style="width:100%" border="1">
+  <tr align="center">
+    <th>Operator</th>
+    <th>Pengertian</th> 
+  </tr>
+  <tr align="center">
+    <td>&&</td>
+    <td>Logika AND</td>
+  </tr>
+  <tr align="center">
+    <td>||</td>
+    <td>Logika OR</td>
+  </tr>
+   <tr align="center">
+    <td>!</td>
+    <td>Negasi / Kebalikan</td>
+  </tr>
+</table>
+
+
+
+### 5. Operator Bitwise
+
+- digunakan untuk operasi bit (biner).
+- dapat diterapkan pada tipe data integer, int, short, long, char, dan byte.
+<table style="width:100%" border="1">
+  <tr align="center">
+    <th>Operator</th>
+    <th>Pengertian</th> 
+  </tr>
+  <tr align="center">
+    <td>&</td>
+    <td>AND</td>
+  </tr>
+  <tr align="center">
+    <td>|</td>
+    <td>OR</td>
+  </tr>
+   <tr align="center">
+    <td>^</td>
+    <td>XOR</td>
+  </tr>
+  <tr align="center">
+    <td>~</td>
+    <td>Negasi / kebalikan</td>
+  </tr>
+  <tr align="center">
+    <td><<</td>
+    <td>Left Shift</td>
+  </tr>
+  <tr align="center">
+    <td>>></td>
+    <td>Right Shift</td>
+  </tr>
+  <tr align="center">
+    <td>>>></td>
+    <td>Right Shift dengan tambahan 0</td>
+  </tr>
+</table>
+
+
+
+### 6. Operator Tenary
+
+- operator yang memiliki 3 argumen.
+- operator ini akan melakukan evaluasi boolean (true / false)
+- evaluasi boolean akan menentukan nilai mana yang akan dikembalikan.
+<br>
+Berikut adalah cara penulisan operator tenary :
+<br>
+(kondisi) ? nilai jika terue : nilai jika false;
