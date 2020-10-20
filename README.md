@@ -5,6 +5,7 @@
   2. [Pengenal Java](https://github.com/sandybuana03/java-fundamental/blob/main/Pengenal.md)
   3. [Variabel Java](https://github.com/sandybuana03/java-fundamental/blob/main/Variabel.md)
   4. [Konstanta](https://github.com/sandybuana03/java-fundamental/blob/main/Konstanta.md)
+  4. [Operator Java](https://github.com/sandybuana03/java-fundamental/blob/main/Operator.md)
   
   
 #### BAB 1 Pengenalan Pemrograman Java
