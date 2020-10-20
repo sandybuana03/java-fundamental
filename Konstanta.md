@@ -3,7 +3,7 @@
 - Konstanta menggambarkan data atau nilai permanen yang tidak pernah berubah.
 - kata final adalah kata kunci java untuk mendeklarasikan konstanta.
 - sintak untuk mendeklarasikan konstanta adalah :
- <br><b>final<b> tipedata namaKonstanta = nilai;
+ <br><b>final</b> tipedata namaKonstanta = nilai;
  
 - contoh :
 <br>final double PI = 3.14;
