@@ -22,3 +22,5 @@
   3. [Hitung Rata-Rata (3 Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/HitungRataRata.java)
   4. [Konversi Detik (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/KonversiDetik.java)
   5. [Konversi Suhu (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/KonversiSuhu.java)
+  6. [Tampil Waktu Sekarang](https://github.com/sandybuana03/java-fundamental/blob/main/WaktuSekarang.java)
+  
