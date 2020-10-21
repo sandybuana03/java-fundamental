@@ -9,6 +9,7 @@ public class PajakPenjualan {
         
         double pajak = jumlahBeli * 0.06;
         
+        //casting double to int
         System.out.println("Pajak penjualan (6% dibulatkan) adalah " + (int)(pajak*100)/100);
     }
 }
