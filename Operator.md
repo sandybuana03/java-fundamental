@@ -190,4 +190,8 @@
 <br>
 Berikut adalah cara penulisan operator tenary :
 <br>
-(kondisi) ? nilai jika terue : nilai jika false;
+Tipedata namaVariabel = (kondisi) ? nilai_jika_true : nilai_jika_false;
+<br>
+contoh :
+<br>
+String jawaban = (suka > 5) ? "iya" : "tidak";
