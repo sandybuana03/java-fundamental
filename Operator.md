@@ -194,6 +194,6 @@ Tipedata namaVariabel = (kondisi) ? nilai_jika_true : nilai_jika_false;
 <br>
 contoh :
 <br>
-int suka;
+int suka = 10;
 <br>
 String jawaban = (suka > 5) ? "iya" : "tidak";
