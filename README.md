@@ -7,6 +7,8 @@
   4. [Konstanta](https://github.com/sandybuana03/java-fundamental/blob/main/Konstanta.md)
   5. [Operator Java](https://github.com/sandybuana03/java-fundamental/blob/main/Operator.md)
   6. [Inputan / Scanner Java](https://github.com/sandybuana03/java-fundamental/blob/main/Scanner.md)
+  7. [Casting / Ubah Tipe Data](https://github.com/sandybuana03/java-fundamental/blob/main/Casting.md)
+  
   
   
   
