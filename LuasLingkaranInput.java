@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class LuasLingkaranInput {
     public static void main(String[] args) {
         
-        //menciptakan objek scanner dengan nama simpaninput
+        //menciptakan objek scanner dengan nama nyimpen
         Scanner nyimpen = new Scanner(System.in);
         
         //Meminta untuk memasukkan nilai jari-jari
