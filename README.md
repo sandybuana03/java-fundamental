@@ -8,6 +8,8 @@
   5. [Operator Java](https://github.com/sandybuana03/java-fundamental/blob/main/Operator.md)
   6. [Inputan / Scanner Java](https://github.com/sandybuana03/java-fundamental/blob/main/Scanner.md)
   7. [Casting / Ubah Tipe Data](https://github.com/sandybuana03/java-fundamental/blob/main/Casting.md)
+  8. [Hitung Pangkat / Math.pow](https://github.com/sandybuana03/java-fundamental/blob/main/Pangkat.md)
+  
   
   
   
