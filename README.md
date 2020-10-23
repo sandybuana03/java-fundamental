@@ -9,6 +9,8 @@
   6. [Inputan / Scanner Java](https://github.com/sandybuana03/java-fundamental/blob/main/Scanner.md)
   7. [Casting / Ubah Tipe Data](https://github.com/sandybuana03/java-fundamental/blob/main/Casting.md)
   8. [Hitung Pangkat / Math.pow](https://github.com/sandybuana03/java-fundamental/blob/main/Pangkat.md)
+  9. [Hitung Akar / Math.sqrt](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.md)
+  
   
   
   
@@ -29,6 +31,8 @@
   6. [Tampil Waktu Sekarang](https://github.com/sandybuana03/java-fundamental/blob/main/WaktuSekarang.java)
   7. [Pajak Penjualan (Casting)](https://github.com/sandybuana03/java-fundamental/blob/main/PajakPenjualan.java)
   8. [Perpangkatan (Math.pow)](https://github.com/sandybuana03/java-fundamental/blob/main/Pangkat.java)
+  9. [Hitung Akar (Math.sqrt)](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.java)
+  
   
   
   
