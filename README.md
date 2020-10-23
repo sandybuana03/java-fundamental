@@ -28,5 +28,7 @@
   5. [Konversi Suhu (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/KonversiSuhu.java)
   6. [Tampil Waktu Sekarang](https://github.com/sandybuana03/java-fundamental/blob/main/WaktuSekarang.java)
   7. [Pajak Penjualan (Casting)](https://github.com/sandybuana03/java-fundamental/blob/main/PajakPenjualan.java)
+  8. [Perpangkatan (Math.pow)](https://github.com/sandybuana03/java-fundamental/blob/main/Pangkat.java)
+  
   
   
