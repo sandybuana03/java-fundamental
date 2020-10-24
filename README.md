@@ -35,6 +35,8 @@
   08. [Perpangkatan (Math.pow)](https://github.com/sandybuana03/java-fundamental/blob/main/Pangkat.java)
   09. [Hitung Akar (Math.sqrt)](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.java)
   10. [Karakter Spesial / Special Character](https://github.com/sandybuana03/java-fundamental/blob/main/KaraterSpesial.java)
+  11. [Operator Tenary](https://github.com/sandybuana03/java-fundamental/blob/main/Tenary.java)
+  
   
   
   
