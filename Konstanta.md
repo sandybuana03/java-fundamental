@@ -3,8 +3,13 @@
 - Konstanta menggambarkan data atau nilai permanen yang tidak pernah berubah.
 - kata final adalah kata kunci java untuk mendeklarasikan konstanta.
 - sintak untuk mendeklarasikan konstanta adalah :
- <br><b>final</b> tipedata namaKonstanta = nilai;
+
+```java
+
+final tipedata namaKonstanta = nilai;
  
+```
+
 - contoh :
 
 ```java
