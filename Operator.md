@@ -193,7 +193,11 @@ Berikut adalah cara penulisan operator tenary :
 Tipedata namaVariabel = (kondisi) ? nilai_jika_true : nilai_jika_false;
 <br>
 contoh :
-<br>
+
+```java
+
 int suka = 10;
-<br>
+
 String jawaban = (suka > 5) ? "iya" : "tidak";
+
+```
