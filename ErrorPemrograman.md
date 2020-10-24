@@ -1,7 +1,7 @@
 ## Error Pemrograman
 
 Error pemrograman tak bisa dihindari, meski untuk programmer yang berpengalaman. 
-<br>error dapat dikategorikan menjadi tiga antara lain :
+<br>Error dapat dikategorikan menjadi tiga antara lain :
 
 ### 1. Error Sintaks
 
