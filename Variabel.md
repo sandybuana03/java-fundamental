@@ -4,8 +4,13 @@
 - Dikatakan variabel, karena nilai yang ditugaskan kepadanya bisa diubah.
 - variabel digunakan untuk menggambarkan data dengan tipe tertentu.
 - sintak untuk mendeklarasikan variabel adalah :
- <br>tipedata namaVariabel;
  
+```java
+
+tipedata namaVariabel;
+ 
+```
+
 - contoh :
 
 ```java
