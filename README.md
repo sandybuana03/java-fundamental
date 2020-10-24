@@ -40,6 +40,8 @@
   11. [Operator Tenary](https://github.com/sandybuana03/java-fundamental/blob/main/Tenary.java)
   12. [Tampil String](https://github.com/sandybuana03/java-fundamental/blob/main/TampilString.java)
   13. [Baca Satu Baris String](https://github.com/sandybuana03/java-fundamental/blob/main/BacaSebarisString.java)
+  14. [Konversi String ke Numerik (parse)](https://github.com/sandybuana03/java-fundamental/blob/main/KonvertString.java)
+  
   
   
   
