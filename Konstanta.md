@@ -6,8 +6,13 @@
  <br><b>final</b> tipedata namaKonstanta = nilai;
  
 - contoh :
-<br>final double PI = 3.14;
-<br>
+
+```java
+
+final double PI = 3.14;
+
+```
+
 Keuntungan menggunakan konstanta :
 
 - tidak perlu mengetikkan nilai yang sama berulang-ulang
