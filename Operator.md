@@ -189,9 +189,13 @@
 - evaluasi boolean akan menentukan nilai mana yang akan dikembalikan.
 <br>
 Berikut adalah cara penulisan operator tenary :
-<br>
+
+```java
+
 Tipedata namaVariabel = (kondisi) ? nilai_jika_true : nilai_jika_false;
-<br>
+
+```
+
 contoh :
 
 ```java
