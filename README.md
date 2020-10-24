@@ -12,12 +12,7 @@
   09. [Hitung Akar / Math.sqrt](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.md)
   10. [Karakter Spesial / Escape Character](https://github.com/sandybuana03/java-fundamental/blob/main/KarakterSpesial.md)
   11. [Tipe String](https://github.com/sandybuana03/java-fundamental/blob/main/TipeString.md)
-  
-  
-  
-  
-  
-  
+  12. [Error Pemrograman](https://github.com/sandybuana03/java-fundamental/blob/main/ErrorPemrograman.md)
   
   
 #### BAB 1 Pengenalan Pemrograman Java
