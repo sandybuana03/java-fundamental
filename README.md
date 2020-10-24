@@ -11,6 +11,8 @@
   08. [Hitung Pangkat / Math.pow](https://github.com/sandybuana03/java-fundamental/blob/main/Pangkat.md)
   09. [Hitung Akar / Math.sqrt](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.md)
   10. [Karakter Spesial / Escape Character](https://github.com/sandybuana03/java-fundamental/blob/main/KarakterSpesial.md)
+  11. [Tipe String](https://github.com/sandybuana03/java-fundamental/blob/main/TipeString.md)
+  
   
   
   
@@ -36,6 +38,9 @@
   09. [Hitung Akar (Math.sqrt)](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.java)
   10. [Karakter Spesial / Special Character](https://github.com/sandybuana03/java-fundamental/blob/main/KaraterSpesial.java)
   11. [Operator Tenary](https://github.com/sandybuana03/java-fundamental/blob/main/Tenary.java)
+  12. [Tampil String](https://github.com/sandybuana03/java-fundamental/blob/main/TampilString.java)
+  13. [Baca Satu Baris String](https://github.com/sandybuana03/java-fundamental/blob/main/BacaSebarisString.java)
+  
   
   
   
