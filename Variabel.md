@@ -7,6 +7,11 @@
  <br>tipedata namaVariabel;
  
 - contoh :
-<br>int hitung;
-<br>double tinggi;
-<br>double luas;
+
+```java
+
+int hitung;
+double tinggi;
+float luas;
+
+```
