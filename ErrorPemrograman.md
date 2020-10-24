@@ -1,6 +1,7 @@
 ## Error Pemrograman
 
-Error pemrograman tak bisa dihindari, meski untuk programmer yang berpengalaman. error dapat dikategorikan menjadi tiga antara lain :
+Error pemrograman tak bisa dihindari, meski untuk programmer yang berpengalaman. 
+<br>error dapat dikategorikan menjadi tiga antara lain :
 
 ### 1. Error Sintaks
 
@@ -49,6 +50,7 @@ public class Error {
 
 Error Logika terjadi bila suatu program tidak mengerjakan apa yang diperintahkan.
 Error jenis ini terjadi karena berbagai alasan.
+<br>
 Sebagai contoh, dimisalkan anda menuliskan program untuk menambahkan angka1 dan angka2 :
 
 ```java
