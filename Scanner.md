@@ -4,7 +4,14 @@
 - Secara default, device output adalah layar monitor, dan device input adalah keyboard.
 - Untuk menghasilkan output pada konsol, hanya perlu menggunakan metode println untuk menampilkan suatu nilai primitif atau string.
 - Masukkan (inputan) konsol tidak secara langsung didukung oleh java, tetapi bisa menggunakan kelas Scanner untuk menciptakan suatu objek dalam membaca masukkan dari System.in.
-- <b>import java.util.Scanner</b> digunakan untuk mengimport method Scanner
+
+```java
+
+import java.util.Scanner 
+
+```
+
+digunakan untuk mengimport method Scanner
 - berikut adalah metode-metode untuk objek scanner :
 <table style="width:100%" border="1">
   <tr align="center">
