@@ -1,4 +1,4 @@
-### PBO 11 RPL 26-10-2020 sampai 28.10.2020
+### PBO 11 RPL Senin 26-10-2020 sampai Jum'at 30.10.2020
 ## Ulangan Harian
 
 - Baca buku paket halaman 50 tentang <b>Kontrol Switch</b>
