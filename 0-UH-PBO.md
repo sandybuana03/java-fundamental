@@ -9,7 +9,7 @@ Kemudian dari kodingan dibawah sebagai contoh, tugas kalian adalah membuat progr
 - pilihan 2 = Ayam Goreng
 - pilihan 3 = Ayam Geprek
 
-output :
+Misal :
 <b><br>Anda memilih menu ke-1
 <br>Ayam Bakar</b>
 
