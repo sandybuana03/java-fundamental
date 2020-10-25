@@ -36,7 +36,7 @@ public class cabanganSwitch {
         System.out.print("Masukkan Pilihan Jurusan (Angka 1 2 3) = "); //meminta memasukkan angka
         jurusan = simpanPilihan.nextInt(); //menyimpan input pada variabel jurusan
         
-        //tampil tulisankan dan nilai inputan jurusan
+        //tampil tulisan dan nilai inputan jurusan
         System.out.println("Anda memilih jurusan ke-" + jurusan);
        
         switch (jurusan) { //mencocokan nilai inputan jurusan dengan pilihan yang ada
