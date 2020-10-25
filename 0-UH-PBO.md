@@ -50,7 +50,7 @@ public class cabanganSwitch {
                 break; //pemisah
                 
             default: //jika inputan bukan 1 / 2 / 3
-                System.out.println("PILIHANMU TIDAK ADA !"); //tampil AKL
+                System.out.println("PILIHANMU TIDAK ADA !"); //tampil jika input bukan 1 2 3
         }
     }
 }
