@@ -13,6 +13,10 @@ Misal :
 <b><br>Anda memilih menu ke-1
 <br>Ayam Bakar</b>
 
+Upload screenshot kodingan ke google classroom 
+
+Berikut contoh program untuk memilih jurusan :
+
 ```java
 
 import java.util.Scanner;
