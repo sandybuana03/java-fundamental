@@ -182,7 +182,7 @@
 
 
 
-### 6. Operator Tenary
+### 6. Operator Ternary
 
 - operator yang memiliki 3 argumen.
 - operator ini akan melakukan evaluasi boolean (true / false)
