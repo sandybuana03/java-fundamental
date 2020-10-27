@@ -4,7 +4,7 @@ public class WaktuSekarang {
         //mendapatkan total milidetik sejak tengah malam 1 januari 1970
         long totalMilidetik = System.currentTimeMillis();
         
-        //mendapatkan total detik sejak tengah malah 1 januari 1970
+        //mendapatkan total detik sejak tengah malam 1 januari 1970
         long totalDetik = totalMilidetik / 1000;
         
         //menghitung detik saat ini
