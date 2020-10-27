@@ -15,9 +15,11 @@ public class LuasLingkaran {
       //tampilkan hasilnya
       //tampil kalimat
       System.out.print("Luas lingkaran dengan jari-jari = ");
-      //mengambil nilai jari-jari dari variabel
+
+      //mengambil nilai jari-jari dari variabel jarijari 
       System.out.println(jarijari);
-      //tampil string dan mengambil nilai luas dari variabel
+
+      //tampil string dan mengambil nilai luas dari variabel luas
       System.out.println("adalah = " + luas);
     }
 }
