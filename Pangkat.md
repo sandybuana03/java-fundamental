@@ -7,3 +7,11 @@
 Math.pow(angka, pangkatnya)
 
 ```
+Contoh :
+
+```java
+
+int a = 2;
+double b = Math.pow(a,3); //2*2*2 = 8
+
+```
