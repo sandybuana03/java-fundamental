@@ -34,9 +34,10 @@
   09. [Hitung Akar (Math.sqrt)](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.java)
   10. [Karakter Spesial / Special Character](https://github.com/sandybuana03/java-fundamental/blob/main/KarakterSpesial.java)
   11. [Operator Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/Ternary.java)
-  12. [Tampil String](https://github.com/sandybuana03/java-fundamental/blob/main/TampilString.java)
-  13. [Baca Satu Baris String](https://github.com/sandybuana03/java-fundamental/blob/main/BacaSebarisString.java)
-  14. [Konversi String ke Numerik (parse)](https://github.com/sandybuana03/java-fundamental/blob/main/KonvertString.java)
+  12. [Menentukan Status Umur (Ternary)](https://github.com/sandybuana03/java-fundamental/blob/main/TernaryUmur.java)
+  13. [Tampil String](https://github.com/sandybuana03/java-fundamental/blob/main/TampilString.java)
+  14. [Baca Satu Baris String](https://github.com/sandybuana03/java-fundamental/blob/main/BacaSebarisString.java)
+  15. [Konversi String ke Numerik (parse)](https://github.com/sandybuana03/java-fundamental/blob/main/KonvertString.java)
   
   
   
