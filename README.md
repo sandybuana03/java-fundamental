@@ -41,9 +41,9 @@
   
   
   #### BAB 3 Percabangan
-  01. [IF Sederhana](https://github.com/sandybuana03/java-fundamental/blob/main/IfSederhana.java)
+  01. [IF Sederhana (If Satu Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/IfSederhana.java)
   02. [Kuis Penjumlahan](https://github.com/sandybuana03/java-fundamental/blob/main/KuisPenjumlahan.java)
-  03. [Tebak Ulang Tahun](https://github.com/sandybuana03/java-fundamental/blob/main/TebakUltah.java)
+  03. [Tebak Ulang Tahun (If Satu Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakUltah.java)
   
   
   
