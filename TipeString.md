@@ -10,7 +10,7 @@
 ```java
 
 //Tiga string disambung
-String pesan = "Aku " + "Makan " + " Ayam";
+String pesan = "Aku" + " Makan " + "Ayam";
 
 //String Bab disambungkan dengan angka 2
 String a = "Bab" + 2; //a menjadi Bab2
