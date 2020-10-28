@@ -1,6 +1,7 @@
 ### Pangkat
 
 - Pada java, untuk menggunakan fungsi perhitungan pangkat dapat menggunakan perintah Math.pow
+- Contoh penulisan :
 
 ```java
 
