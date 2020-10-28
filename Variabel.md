@@ -20,3 +20,19 @@ double tinggi;
 float luas;
 
 ```
+Atau bisa juga
+
+```java
+
+tipedata namaVariabel = nilai;
+ 
+```
+
+- contoh :
+
+```java
+
+int jarijari = 7;
+double pi = 3.14;
+
+```
