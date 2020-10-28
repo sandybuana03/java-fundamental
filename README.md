@@ -32,7 +32,7 @@
   07. [Pajak Penjualan (Casting)](https://github.com/sandybuana03/java-fundamental/blob/main/PajakPenjualan.java)
   08. [Perpangkatan (Math.pow)](https://github.com/sandybuana03/java-fundamental/blob/main/Pangkat.java)
   09. [Hitung Akar (Math.sqrt)](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.java)
-  10. [Karakter Spesial / Special Character](https://github.com/sandybuana03/java-fundamental/blob/main/KaraterSpesial.java)
+  10. [Karakter Spesial / Special Character](https://github.com/sandybuana03/java-fundamental/blob/main/KarakterSpesial.java)
   11. [Operator Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/Ternary.java)
   12. [Tampil String](https://github.com/sandybuana03/java-fundamental/blob/main/TampilString.java)
   13. [Baca Satu Baris String](https://github.com/sandybuana03/java-fundamental/blob/main/BacaSebarisString.java)
