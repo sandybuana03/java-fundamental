@@ -70,7 +70,7 @@ else {
 
 - Suatu statemen if dapat memuat if lainnya.
 - Atau dengan kata lain, statemen if sebelah dalam dikatakan bersarang (Nested) di dalam statemen if sebelah luar.
--Sebagai contoh, berikut adalah suatu statemen if nested :
+- Sebagai contoh, berikut adalah suatu statemen if nested :
 
 ```java
 
