@@ -40,8 +40,8 @@
   15. [Konversi String ke Numerik (parse)](https://github.com/sandybuana03/java-fundamental/blob/main/KonvertString.java)
   
   
-  
-  
+  #### BAB 3 Percabangan
+  01. [Kuis Penjumlahan](https://github.com/sandybuana03/java-fundamental/blob/main/KuisPenjumlahan.java)
   
   
   
