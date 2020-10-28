@@ -3,7 +3,7 @@
 - Tipe char merepresentasikan hanya satu karakter.
 - Tipe String merepresentasikan suatu kalimat.
 - String bukanlah tipe primitif, namun dikenal sebagai tipe referensi.
-- String harus diapit tanda kutip ganda:
+- String harus diapit tanda kutip ganda (" ")
 - Dua string dapat disambungkan menggunakan tanda (+)
 - Berikut beberapa contoh :
 
