@@ -1,4 +1,4 @@
-public class KaraterSpesial {
+public class KarakterSpesial {
     public static void main (String [] args ) {
         
         System.out.println("1. Saya berkata \"MAJU\" "); //petik dua
