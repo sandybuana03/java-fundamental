@@ -188,7 +188,7 @@
 - operator ini akan melakukan evaluasi boolean (true / false)
 - evaluasi boolean akan menentukan nilai mana yang akan dikembalikan.
 <br>
-Berikut adalah cara penulisan operator tenary :
+Berikut adalah cara penulisan operator ternary :
 
 ```java
 
