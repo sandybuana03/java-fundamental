@@ -5,7 +5,7 @@
 
 ```java
 
-Math.sqrt(angka_yang_akan_dicari_pangkatnya)
+Math.sqrt(angka_yang_akan_dicari_akarnya)
 
 ```
 
