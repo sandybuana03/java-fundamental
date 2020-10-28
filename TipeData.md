@@ -37,7 +37,7 @@ Ada delapan tipe data primitif di Java:
 <tr>
 <td>byte</td>
 <td>1 byte</td>
-<td>Menyimpan angka dari-128 ke 127</td>
+<td>Menyimpan angka dari -128 ke 127</td>
 </tr>
 
 <tr>
