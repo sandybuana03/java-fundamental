@@ -6,8 +6,9 @@ Contoh :
 
 ```java
 
-int angka1 = 5;               // Integer (whole number)
-float angka2 = 5.99f;         // Floating point number
+int angka1 = 5;               // Integer (bilangan bulat)
+double angka2 = 0.55.         // Double (bilangan pecahan) 
+float angka3 = 5.99f;         // Floating point number
 char huruf = 'D';             // Character
 boolean myBool = true;        // Boolean
 String myText = "Hello";      // String
