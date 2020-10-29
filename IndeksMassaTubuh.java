@@ -1,3 +1,11 @@
+/*  Indeks Massa Tubuh :
+    Dibawah 16 = Sangat Kurus
+    16 - 17    = Kurus
+    18 - 24    = Normal
+    25 - 29    = Gemuk
+    30 - 35    = Sangat Gemuk
+    Diatas 35  = Terlalu Gemuk (OBESITAS)
+*/
 import java.util.Scanner;
 
 public class IndeksMassaTubuh {
@@ -20,15 +28,15 @@ public class IndeksMassaTubuh {
         
         //tampilhasil
         System.out.printf("IMT Anda adalah = %5.2f \n", imt);
-        if (imt < 16)
+        if (imt < 17)
             System.out.println("Anda Sangat Kurus");
         else if (imt < 18)
             System.out.println("Anda Kurus");
-        else if (imt < 24)
+        else if (imt < 25)
             System.out.println("Anda Normal");
-        else if (imt < 29)
+        else if (imt < 30)
             System.out.println("Anda Gemuk");
-        else if (imt < 35)
+        else if (imt < 36)
             System.out.println("Anda Sangat Gemuk");
         else
             System.out.println("Anda Terlalu Gemuk (OBESITAS)");
