@@ -28,7 +28,7 @@ public class IndeksMassaTubuh {
         
         //tampilhasil
         System.out.printf("IMT Anda adalah = %5.2f \n", imt);
-        if (imt < 17)
+        if (imt < 16)
             System.out.println("Anda Sangat Kurus");
         else if (imt < 18)
             System.out.println("Anda Kurus");
