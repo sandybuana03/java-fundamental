@@ -47,7 +47,7 @@
   02. [Kuis Penjumlahan (If Dua-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/KuisPenjumlahan.java)
   03. [Tebak Ulang Tahun (If Satu-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakUltah.java)
   04. [Kuis Pengurangan (If Dua-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/KuisPengurangan.java)
-  05. [Menghitung Indeks Massa Tubuh (If Dua-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/IndeksMassaTubuh.java)
+  05. [Menghitung Indeks Massa Tubuh](https://github.com/sandybuana03/java-fundamental/blob/main/IndeksMassaTubuh.java)
   
   
   
