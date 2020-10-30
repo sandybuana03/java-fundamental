@@ -39,10 +39,11 @@
   10. [Karakter Spesial / Special Character](https://github.com/sandybuana03/java-fundamental/blob/main/KarakterSpesial.java)
   11. [Operator Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/Ternary.java)
   12. [Menentukan Status Umur (Ternary)](https://github.com/sandybuana03/java-fundamental/blob/main/TernaryUmur.java)
-  13. [Uji Operator Boolean](https://github.com/sandybuana03/java-fundamental/blob/main/UjiOperatorBoolean.java)
-  14. [Tampil String](https://github.com/sandybuana03/java-fundamental/blob/main/TampilString.java)
-  15. [Baca Satu Baris String](https://github.com/sandybuana03/java-fundamental/blob/main/BacaSebarisString.java)
-  16. [Konversi String ke Numerik (parse)](https://github.com/sandybuana03/java-fundamental/blob/main/KonvertString.java)
+  13. [Uji Operator Logika / Boolean](https://github.com/sandybuana03/java-fundamental/blob/main/UjiOperatorBoolean.java)
+  14. [Tahun Leap (Boolean)](https://github.com/sandybuana03/java-fundamental/blob/main/TahunLeap.java)
+  15. [Tampil String](https://github.com/sandybuana03/java-fundamental/blob/main/TampilString.java)
+  16. [Baca Satu Baris String](https://github.com/sandybuana03/java-fundamental/blob/main/BacaSebarisString.java)
+  17. [Konversi String ke Numerik (parse)](https://github.com/sandybuana03/java-fundamental/blob/main/KonvertString.java)
   
   ---
 
