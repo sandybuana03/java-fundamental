@@ -2,6 +2,8 @@
 
 - Secara singkat operator adalah sebuah perintah untuk melakukan aksi atau tindakan tertentu dalam pemrograman untuk menghasilkan sebuah nilai.
 
+---
+
 ## Jenis Operator
 
 ### 1. Operator Aritmetika
@@ -42,7 +44,7 @@
   </tr>
 </table>
 
-
+---
 
 ### 2. Operator Penugasan
 
@@ -78,7 +80,7 @@
   </tr>
 </table>
 
-
+---
 
 ### 3. Operator Pembanding
 
@@ -115,7 +117,7 @@
   </tr>
 </table>
 
-
+---
 
 ### 4. Operator Logika
 
@@ -139,7 +141,7 @@
   </tr>
 </table>
 
-
+---
 
 ### 5. Operator Bitwise
 
@@ -180,7 +182,7 @@
   </tr>
 </table>
 
-
+---
 
 ### 6. Operator Ternary
 
