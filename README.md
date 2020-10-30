@@ -16,13 +16,14 @@
   13. [Error Pemrograman](https://github.com/sandybuana03/java-fundamental/blob/main/ErrorPemrograman.md)
   14. [Statemen If](https://github.com/sandybuana03/java-fundamental/blob/main/StatemenIf.md)
   
-  
+  ---
   
 #### BAB 1 Pengenalan Pemrograman Java
   01. [Identitas](https://github.com/sandybuana03/java-fundamental/blob/main/Identitas.java)
   02. [Hitung Ekspresi](https://github.com/sandybuana03/java-fundamental/blob/main/HitungEkspresi.java)
   03. [Identitas (DialogBox)](https://github.com/sandybuana03/java-fundamental/blob/main/IdentitasDialogBox.java)
 
+---
 
 #### BAB 2 Pemrograman Elementer 
   01. [Luas Lingkaran](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaran.java)
@@ -41,7 +42,8 @@
   14. [Baca Satu Baris String](https://github.com/sandybuana03/java-fundamental/blob/main/BacaSebarisString.java)
   15. [Konversi String ke Numerik (parse)](https://github.com/sandybuana03/java-fundamental/blob/main/KonvertString.java)
   
-  
+  ---
+
   #### BAB 3 Percabangan
   01. [IF Sederhana (If Satu-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/IfSederhana.java)
   02. [Kuis Penjumlahan (If Dua-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/KuisPenjumlahan.java)
@@ -50,7 +52,7 @@
   05. [Menghitung Indeks Massa Tubuh](https://github.com/sandybuana03/java-fundamental/blob/main/IndeksMassaTubuh.java)
   06. [Hitung Pajak (If Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/HitungPajak.java)
   
-  
+  ---
   
   
   
