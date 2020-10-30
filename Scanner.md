@@ -12,7 +12,31 @@ import java.util.Scanner
 ```
 
 digunakan untuk mengimport method Scanner
-- berikut adalah metode-metode untuk objek scanner :
+
+---
+
+```java
+
+Scanner namaScanner = new Scanner(System.in);
+
+```
+
+digunakan untuk menciptakan objek Scanner
+
+---
+
+```java
+
+tipeData namaVariabel = namaScanner.methodScanner();
+
+```
+
+digunakan untuk menggunakan objek Scanner
+
+---
+
+#### Berikut adalah metode-metode untuk objek scanner :
+
 <table style="width:100%" border="1">
   <tr align="center">
     <th>Metode</th>
