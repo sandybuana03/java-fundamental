@@ -54,8 +54,9 @@
   04. [Kuis Pengurangan (If Dua-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/KuisPengurangan.java)
   05. [Menghitung Indeks Massa Tubuh](https://github.com/sandybuana03/java-fundamental/blob/main/IndeksMassaTubuh.java)
   06. [Hitung Pajak (If Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/HitungPajak.java)
-  07. [Pilih Jurusan (Switch)](https://github.com/sandybuana03/java-fundamental/blob/main/PilihJurusan.java)
-  08. [Mencari Nama Hari (Switch)](https://github.com/sandybuana03/java-fundamental/blob/main/MencariHari.java)
+  07. [Game Lottery](https://github.com/sandybuana03/java-fundamental/blob/main/Lottery.java)
+  08. [Pilih Jurusan (Switch)](https://github.com/sandybuana03/java-fundamental/blob/main/PilihJurusan.java)
+  09. [Mencari Nama Hari (Switch)](https://github.com/sandybuana03/java-fundamental/blob/main/MencariHari.java)
   
   
   ---
