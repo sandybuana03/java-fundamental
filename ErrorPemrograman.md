@@ -22,6 +22,8 @@ public class Error {
 
 ```
 
+---
+
 ### 2. Error Runtime
 
 Error Runtime merupakan kesalahan yang menyebabkan program berhenti secara abnormal.
@@ -45,6 +47,8 @@ public class Error {
 }
 
 ```
+
+---
 
 ### 3. Error Logika
 
