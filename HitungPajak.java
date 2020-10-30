@@ -89,6 +89,6 @@ public class HitungPajak {
         
         // Tampilkan hasil
         System.out.println("-------------------------------------------------------");
-        System.out.println("Pajak Sebesar Rp." + (int)(pajak * 100) / 100.0 + "/Tahun");
+        System.out.println("Pajak Anda Sebesar = Rp." + (int)(pajak * 100) / 100.0 + "/Tahun");
     }
 }
