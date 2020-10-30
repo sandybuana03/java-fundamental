@@ -38,7 +38,13 @@ public class MencariHari {
                 hariDepan = (hariIni+hariHitung)%7;
 
                 // Berdasarkan rumus diatas :
-                // Sisa pembagian 7 akan selalu menyisakan angka 0 1 2 3 4 5 6
+                // 1. Cari tahu terlebih dahulu ada berapa total hari dari hari sekarang 
+                //    total hari = hari ini + hari hitung 
+                //    nilai dari hari ini sama dengan nilai angka yang ada pada pilihan 
+                //    misal hari ini minggu maka hari ini bernilai 7
+                // 2. dari total hari, lalu dibagi 7 (karena jumlah hari hanya ada 7) dan kemudian simpan sisanya
+                //    dari sisa pembagian 7 itulah hari bisa ditentukan 
+                // 3. Sisa pembagian 7 akan selalu menyisakan angka 0 1 2 3 4 5 6 (0 sebagai pengganti 7 karena [7 % 7] tidak ada sisa)
                 // Dari sisa pembagian tersebut bisa diketahui harinya
                 // Sisa 0 adalah hari minggu
                 // Sisa 1 adalah hari senin
