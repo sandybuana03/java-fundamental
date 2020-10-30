@@ -19,6 +19,7 @@ Tipe data dibagi menjadi dua kelompok:
 - Tipe data primitif : byte, short, int, long, float, double, boolean, char
 - Tipe data non-primitif : String , Array , Class
 
+---
 
 ### Tipe Data Primitif
 
@@ -85,6 +86,8 @@ Ada delapan tipe data primitif di Java:
 
 </tbody>
 </table>
+
+---
 
 ### Tipe Data Non-Primitif
 
