@@ -84,7 +84,7 @@ public class HitungPajak {
         else {
             System.out.println("-------------------------------------------------------");
             System.out.println("Maaf Anda Memasukkan Status Keluarga Yang Tidak Valid !");
-            System.exit(0);
+            System.exit(0); // Menghentikan Program
         }
         
         // Tampilkan hasil
