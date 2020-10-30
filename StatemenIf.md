@@ -7,6 +7,8 @@ Java mempunyai beberapa tipe statemen seleksi :
 - statemen switch
 - ekspresi kondisional
 
+---
+
 ## Statemen If Satu-Arah
 
 - Statemen if satu-arah mengeksekusi suatu aksi jika dan hanya jika kondisi adalah true.
@@ -31,6 +33,7 @@ if (4 % 2 == 0) {
    
 ```
 
+---
 
 ## Statemen If Dua-Arah
 
@@ -65,6 +68,8 @@ else {
      }
    
 ```
+
+---
 
 ## Statemen If Nested / Bersarang
 
