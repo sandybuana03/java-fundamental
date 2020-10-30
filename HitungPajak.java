@@ -52,7 +52,7 @@ public class HitungPajak {
                 pajak = pendapatan * 0.20;
         }
         
-        // Menghitung Pajak Menikah Tinggal Terpisah
+        // Menghitung Pajak Menikah Tinggal Terpisah Dengan Orangtua 
         else if (status == 2) {
             if (pendapatan <= 1000000)
                 pajak = pendapatan * 0.11;
