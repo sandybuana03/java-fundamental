@@ -1,6 +1,6 @@
-## Fundamental Pemrograman Java
+# Fundamental Pemrograman Java
 
-#### BAB 0 Teori Pemrograman Java
+## BAB 0 Teori Pemrograman Java
   01. [Kata Kunci Java](https://github.com/sandybuana03/java-fundamental/blob/main/KataKunci.md)
   02. [Identifier / Pengenal Java](https://github.com/sandybuana03/java-fundamental/blob/main/Pengenal.md)
   03. [Variabel Java](https://github.com/sandybuana03/java-fundamental/blob/main/Variabel.md)
@@ -18,7 +18,7 @@
   
   ---
   
-#### BAB 1 Pengenalan Pemrograman Java
+## BAB 1 Pengenalan Pemrograman Java
   01. [Identitas](https://github.com/sandybuana03/java-fundamental/blob/main/Identitas.java)
   02. [Pengenalan Variabel](https://github.com/sandybuana03/java-fundamental/blob/main/PengenalanVariabel.java)
   03. [Hitung Ekspresi](https://github.com/sandybuana03/java-fundamental/blob/main/HitungEkspresi.java)
@@ -26,7 +26,7 @@
 
 ---
 
-#### BAB 2 Pemrograman Elementer 
+## BAB 2 Pemrograman Elementer 
   01. [Luas Lingkaran](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaran.java)
   02. [Luas Lingkaran (Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/LuasLingkaranInput.java)
   03. [Hitung Rata-Rata (3 Input / Scanner)](https://github.com/sandybuana03/java-fundamental/blob/main/HitungRataRata.java)
@@ -46,7 +46,7 @@
   
   ---
 
-  #### BAB 3 Percabangan
+  ## BAB 3 Percabangan
   01. [IF Sederhana (If Satu-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/IfSederhana.java)
   02. [Kuis Penjumlahan (If Dua-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/KuisPenjumlahan.java)
   03. [Tebak Ulang Tahun (If Satu-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakUltah.java)
