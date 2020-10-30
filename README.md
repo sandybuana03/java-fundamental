@@ -2,7 +2,7 @@
 
 #### BAB 0 Teori Pemrograman Java
   01. [Kata Kunci Java](https://github.com/sandybuana03/java-fundamental/blob/main/KataKunci.md)
-  02. [Pengenal Java](https://github.com/sandybuana03/java-fundamental/blob/main/Pengenal.md)
+  02. [Identifier / Pengenal Java](https://github.com/sandybuana03/java-fundamental/blob/main/Pengenal.md)
   03. [Variabel Java](https://github.com/sandybuana03/java-fundamental/blob/main/Variabel.md)
   04. [Tipe Data Java](https://github.com/sandybuana03/java-fundamental/blob/main/TipeData.md)
   05. [Konstanta](https://github.com/sandybuana03/java-fundamental/blob/main/Konstanta.md)
