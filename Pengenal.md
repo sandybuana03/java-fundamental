@@ -1,4 +1,4 @@
-#### Pengenal Java
+#### Identifier / Pengenal Java
 
 - pengenal adalah nama-nama yang muncul didalam program, misal saat menamakan suatu variabel, penamaan variabel itulah yang disebut dengan pengenal.
 - suatu pengenal merupakan suatu runtun karakter yang berisi huruf, angka, garis-bawah (_), dan tanda dollar ($).
