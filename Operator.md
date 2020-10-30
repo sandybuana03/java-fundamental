@@ -119,7 +119,7 @@
 
 ---
 
-### 4. Operator Logika
+### 4. Operator Logika / Boolean
 
 - berfungsi hampir sama dengan operator pembanding, namun menggunakan 3 operator yaitu AND, OR, NOT.
 <table style="width:100%" border="1">
