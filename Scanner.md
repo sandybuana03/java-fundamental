@@ -75,3 +75,29 @@ digunakan untuk menggunakan objek Scanner
     <td>Membaca sebaris teks (suatu string yang berakhir dengan enter)</td>
   </tr>
 </table>
+
+---
+
+#### Contoh
+
+```java
+
+import java.util.Scanner;
+
+public class BacaSebarisString {
+    public static void main (String[] args ) {
+
+        // Menciptakan objek Scanner dengan nama simpan
+        Scanner simpan = new Scanner(System.in);
+        
+        System.out.println("Masukkan Kalimat : ");
+
+        // Menyimpan inputan pada variabel kalimat 
+        String kalimat = simpan.nextLine(); 
+
+        System.out.println("------------------------------");
+        System.out.println("Kalimat anda adalah : \n"  + kalimat);
+    }
+}
+
+```
