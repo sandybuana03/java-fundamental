@@ -45,7 +45,7 @@ public class MencariHari {
                 // 2. dari total hari, lalu dibagi 7 (karena jumlah hari hanya ada 7) dan kemudian simpan sisanya
                 //    dari sisa pembagian 7 itulah hari bisa ditentukan 
                 // 3. Sisa pembagian 7 akan selalu menyisakan angka 0 1 2 3 4 5 6 (0 sebagai pengganti 7 karena [7 % 7] tidak ada sisa)
-                // Dari sisa pembagian tersebut bisa diketahui harinya
+                // 4. Dari sisa pembagian tersebut bisa diketahui harinya
                 // Sisa 0 adalah hari minggu
                 // Sisa 1 adalah hari senin
                 // Sisa 2 adalah hari selasa
