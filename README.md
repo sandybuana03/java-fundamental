@@ -60,11 +60,13 @@
   08. [Pilih Jurusan (Switch)](https://github.com/sandybuana03/java-fundamental/blob/main/PilihJurusan.java)
   09. [Mencari Nama Hari (Switch)](https://github.com/sandybuana03/java-fundamental/blob/main/MencariHari.java)
   10. [Tebak Ulang Tahun (DialogBox)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakUltahDialogBox.java)
+  11. [Tebak Angka 1x](https://github.com/sandybuana03/java-fundamental/blob/main/TebakAngkaSatuKali.java)
+  
   
   ---
   
 ### BAB 4 Perulangan
-  01. [#](#)
+  01. [Tebak Angka (While)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakAngka.java)
   
   
   
