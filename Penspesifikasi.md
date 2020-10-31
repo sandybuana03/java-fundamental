@@ -15,7 +15,7 @@ Sintaks untuk memanggil metode ini adalah :
 
 ```java
 
-System.out.prinf(format, item1, item2, ..., itemN);
+System.out.printf(format, item1, item2, ..., itemN);
 
 ```
 
