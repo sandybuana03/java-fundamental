@@ -69,6 +69,9 @@
 ### BAB 4 Perulangan
   01. [Tebak Angka (While)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakAngka.java)
   02. [Kuis Pengurangan (While)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopKuisPengurangan.java)
+  03. [Nilai Sentinel (While)](https://github.com/sandybuana03/java-fundamental/blob/main/NilaiSentinel.java)
+  04. [Uji Do While](https://github.com/sandybuana03/java-fundamental/blob/main/UjiDoWhile.java)
+  
   
   
   
