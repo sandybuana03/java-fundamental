@@ -12,10 +12,11 @@
   09. [Hitung Pangkat / Math.pow](https://github.com/sandybuana03/java-fundamental/blob/main/Pangkat.md)
   10. [Hitung Akar / Math.sqrt](https://github.com/sandybuana03/java-fundamental/blob/main/Akar.md)
   11. [Karakter Spesial / Escape Character](https://github.com/sandybuana03/java-fundamental/blob/main/KarakterSpesial.md)
-  12. [Tipe String](https://github.com/sandybuana03/java-fundamental/blob/main/TipeString.md)
-  13. [Error Pemrograman](https://github.com/sandybuana03/java-fundamental/blob/main/ErrorPemrograman.md)
-  14. [Ekspresi Kondisional / Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/EkspresiKondisional.md)
-  15. [Statemen If](https://github.com/sandybuana03/java-fundamental/blob/main/StatemenIf.md)
+  12. [Format Keluaran / Penspesifikasi](https://github.com/sandybuana03/java-fundamental/blob/main/Penspesifikasi.md)
+  13. [Tipe String](https://github.com/sandybuana03/java-fundamental/blob/main/TipeString.md)
+  14. [Error Pemrograman](https://github.com/sandybuana03/java-fundamental/blob/main/ErrorPemrograman.md)
+  15. [Ekspresi Kondisional / Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/EkspresiKondisional.md)
+  16. [Statemen If](https://github.com/sandybuana03/java-fundamental/blob/main/StatemenIf.md)
   
   ---
   
