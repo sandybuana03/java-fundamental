@@ -19,7 +19,7 @@ public class LoopKuisPengurangan {
             
             //2. jika angka1 < angka2 maka tukar angka
             if (angka1 < angka2) {
-                int angkaTukar =angka1;
+                int angkaTukar = angka1;
                 angka1 = angka2;
                 angka2 = angkaTukar;
             }
