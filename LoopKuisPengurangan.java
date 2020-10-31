@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 public class LoopKuisPengurangan {
     public static void main(String[] args){
-        int hitungBenar = 0; // hitung jumlah jawaban benar
-        int hitung = 0; //hitung jumlah pertanyaan
+        int pertanyaan = 0; //hitung jumlah pertanyaan
+        int jawabanBenar = 0; // hitung jumlah jawaban benar
         long waktuMulai = System.currentTimeMillis();
         String keluaran = "" ; //kosong
         
@@ -12,7 +12,7 @@ public class LoopKuisPengurangan {
         System.out.print("Masukkan Banyaknya Pertanyaan = ");
         final int JUMLAH_PERTANYAAN = masukan.nextInt();
         
-        while (hitung < JUMLAH_PERTANYAAN) {
+        while (pertanyaan < JUMLAH_PERTANYAAN) {
             //1. Menentukan angka acak
             int angka1 = (int)(Math.random() * 101);
             int angka2 = (int)(Math.random() * 101);
@@ -32,7 +32,7 @@ public class LoopKuisPengurangan {
             //4. Tampilkan hasil
             if (angka1 - angka2 == jawaban) {
                 System.out.println("Anda Benar !");
-                hitungBenar++;
+                jawabanBenar++;
             }
             else {
                 System.out.println("Jawaban Anda Salah !");
@@ -40,7 +40,7 @@ public class LoopKuisPengurangan {
             }
             
             //inkremen hitung
-            hitung++;
+            pertanyaan++;
             
             keluaran += "\n" + angka1 + " - " + angka2 + " = " + jawaban +
                        ((angka1 - angka2 == jawaban) ? " Benar" : " Salah");
@@ -50,7 +50,7 @@ public class LoopKuisPengurangan {
         long waktuUji = waktuAkhir - waktuMulai;
         
         System.out.println("------------------------------");
-        System.out.println("Jumlah yang benar adalah " + hitungBenar);
+        System.out.println("Jumlah yang benar adalah " + jawabanBenar);
         System.out.println("Waktu Uji adalah " + waktuUji / 1000 + " detik");
         System.out.println(keluaran);
     }
