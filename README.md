@@ -49,7 +49,7 @@
   
   ---
 
-  ### BAB 3 Percabangan
+### BAB 3 Percabangan
   01. [IF Sederhana (If Satu-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/IfSederhana.java)
   02. [Kuis Penjumlahan (If Dua-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/KuisPenjumlahan.java)
   03. [Tebak Ulang Tahun (If Satu-Arah)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakUltah.java)
@@ -59,11 +59,12 @@
   07. [Game Lottery](https://github.com/sandybuana03/java-fundamental/blob/main/Lottery.java)
   08. [Pilih Jurusan (Switch)](https://github.com/sandybuana03/java-fundamental/blob/main/PilihJurusan.java)
   09. [Mencari Nama Hari (Switch)](https://github.com/sandybuana03/java-fundamental/blob/main/MencariHari.java)
-  
+  10. [Tebak Ulang Tahun (DialogBox)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakUltahDialogBox.java)
   
   ---
   
-  
+### BAB 4 Perulangan
+  01. [#](#)
   
   
   
