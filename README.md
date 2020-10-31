@@ -15,8 +15,9 @@
   12. [Format Keluaran / Penspesifikasi](https://github.com/sandybuana03/java-fundamental/blob/main/Penspesifikasi.md)
   13. [Tipe String](https://github.com/sandybuana03/java-fundamental/blob/main/TipeString.md)
   14. [Error Pemrograman](https://github.com/sandybuana03/java-fundamental/blob/main/ErrorPemrograman.md)
-  15. [Ekspresi Kondisional / Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/EkspresiKondisional.md)
-  16. [Statemen If](https://github.com/sandybuana03/java-fundamental/blob/main/StatemenIf.md)
+  15. [Statemen If](https://github.com/sandybuana03/java-fundamental/blob/main/StatemenIf.md)
+  16. [Ekspresi Kondisional / Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/EkspresiKondisional.md)
+  
   
   ---
   
@@ -67,6 +68,8 @@
   
 ### BAB 4 Perulangan
   01. [Tebak Angka (While)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakAngka.java)
+  02. [Kuis Pengurangan (While)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopKuisPengurangan.java)
+  
   
   
   
