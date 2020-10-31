@@ -5,7 +5,6 @@ public class NilaiSentinel {
         // Membuat fungsi Scanner
         Scanner masukan = new Scanner(System.in);
         
-        
         System.out.println("Program akan berhenti jika memasukkan angka integer = 0");
         System.out.println("--------------------------------");
         
