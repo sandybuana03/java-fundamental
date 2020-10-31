@@ -8,7 +8,7 @@
 ```java
 
 double d = 4.5;
-int i = (int) d; 
+int i = (int) d; //penulisan int didalam kurung "(int)" digunakan untuk mengcasting d yang merupakan tipe data double
 
 //i menjadi 4, tetapi d tidak berubah, masih 4.5
 
