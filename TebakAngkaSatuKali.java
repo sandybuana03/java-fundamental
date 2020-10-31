@@ -18,6 +18,7 @@ public class TebakAngkaSatuKali {
         
         else if (tebak > angka)
             System.out.println("Angka Tebakan = " + angka +"\nTebakan Anda Terlalu Tinggi !");
+
         else
             System.out.println("Angka Tebakan = " + angka +"\nTebakan Anda Terlalu Rendah !");
     }
