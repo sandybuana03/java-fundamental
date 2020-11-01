@@ -20,8 +20,8 @@ public class PanahSegitigaInput {
         for (int x = 1; x <= baris2; x++) { // loop C
              for (int y = baris2; y >= x; y--) { // loop D
                  System.out.print("*"); 
-             } // tutup loop C
+             } // tutup loop D
              System.out.print("\n");
-         }  // tutup loop D
+         }  // tutup loop C
     }
 }
