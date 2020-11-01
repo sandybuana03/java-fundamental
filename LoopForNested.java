@@ -22,6 +22,7 @@ public class LoopForNested {
        
         
         System.out.println("------"); 
+        System.out.println("------"); 
        
         
         // Bintang kecil ke besar (1 ke 5) Rata Kanan
