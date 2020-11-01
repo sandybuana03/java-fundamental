@@ -5,6 +5,6 @@ public class LoopForBeberapaEkspresi {
             System.out.println(i + " Sandy");
             System.out.println(j + " Buana");
             System.out.println("----------");
-        }
+        } // Tutup for
     }
 }
