@@ -74,6 +74,9 @@
   05. [Perulangan For Sederhana](https://github.com/sandybuana03/java-fundamental/blob/main/LoopFor.java)
   06. [Perulangan For Beberapa Ekspresi](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForBeberapaEkspresi.java)
   
+  00. [Kumpulan Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForNested.java)
+  
+  
   
   
   
