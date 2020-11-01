@@ -71,6 +71,9 @@
   02. [Kuis Pengurangan (While)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopKuisPengurangan.java)
   03. [Nilai Sentinel (While)](https://github.com/sandybuana03/java-fundamental/blob/main/NilaiSentinel.java)
   04. [Uji Do While](https://github.com/sandybuana03/java-fundamental/blob/main/UjiDoWhile.java)
+  05. [Perulangan For Sederhana](https://github.com/sandybuana03/java-fundamental/blob/main/LoopFor.java)
+  06. [Perulangan For Beberapa Ekspresi](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForBeberapaEkspresi.java)
+  
   
   
   
