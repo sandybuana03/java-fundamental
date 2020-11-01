@@ -73,6 +73,10 @@
   04. [Uji Do While](https://github.com/sandybuana03/java-fundamental/blob/main/UjiDoWhile.java)
   05. [Perulangan For Sederhana](https://github.com/sandybuana03/java-fundamental/blob/main/LoopFor.java)
   06. [Perulangan For Beberapa Ekspresi](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForBeberapaEkspresi.java)
+  07. [Segitiga Siku Bintang (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/SegitigaSikuBintang.java)
+  08. [Input Segitiga Siku Bintang (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/SegitigaSikuBintangInput.java)
+  09. [Input Panah Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/PanahSegitigaInput.java)
+  
   
   00. [Kumpulan Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForNested.java)
   
