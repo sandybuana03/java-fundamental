@@ -76,9 +76,11 @@
   07. [Segitiga Siku Bintang (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/SegitigaSikuBintang.java)
   08. [Input Segitiga Siku Bintang (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/SegitigaSikuBintangInput.java)
   09. [Input Panah Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/PanahSegitigaInput.java)
+  10. [Tabel Perkalian (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/TabelPerkalian.java)
+  11. [Menghitung Deret (For)](https://github.com/sandybuana03/java-fundamental/blob/main/Deret.java)
+  12. [Kumpulan Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForNested.java)
   
   
-  00. [Kumpulan Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForNested.java)
   
   
   
