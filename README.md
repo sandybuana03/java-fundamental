@@ -83,6 +83,8 @@
   14. [Tebak Angka Break (While)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakAngkaBreak.java)
   15. [Kumpulan Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForNested.java)
   16. [Menampilkan Angka Prima (While & For)](https://github.com/sandybuana03/java-fundamental/blob/main/AngkaPrima.java)
+  17. [Input Nilai Dialog Box (While)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopInputNilaiDialogBox.java)
+  
   
   
   
