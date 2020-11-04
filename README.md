@@ -78,7 +78,10 @@
   09. [Input Panah Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/PanahSegitigaInput.java)
   10. [Tabel Perkalian (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/TabelPerkalian.java)
   11. [Menghitung Deret (For)](https://github.com/sandybuana03/java-fundamental/blob/main/Deret.java)
-  12. [Kumpulan Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForNested.java)
+  12. [Test Break (While)](https://github.com/sandybuana03/java-fundamental/blob/main/TestBreak.java)
+  13. [Test Continue (While)](https://github.com/sandybuana03/java-fundamental/blob/main/TestContinue.java)
+  14. [Tebak Angka Break (While)](https://github.com/sandybuana03/java-fundamental/blob/main/TebakAngkaBreak.java)
+  15. [Kumpulan Segitiga (For Nested)](https://github.com/sandybuana03/java-fundamental/blob/main/LoopForNested.java)
   
   
   
