@@ -19,6 +19,8 @@
   16. [Ekspresi Kondisional / Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/EkspresiKondisional.md)
   17. [Statemen Switch](https://github.com/sandybuana03/java-fundamental/blob/main/StatemenSwitch.md)
   18. [Perulangan While](https://github.com/sandybuana03/java-fundamental/blob/main/PerulanganWhile.md)
+  19. [Perulangan For](https://github.com/sandybuana03/java-fundamental/blob/main/PerulanganFor.md)
+  
   
   
   
