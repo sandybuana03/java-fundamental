@@ -17,6 +17,8 @@
   14. [Error Pemrograman](https://github.com/sandybuana03/java-fundamental/blob/main/ErrorPemrograman.md)
   15. [Statemen If](https://github.com/sandybuana03/java-fundamental/blob/main/StatemenIf.md)
   16. [Ekspresi Kondisional / Ternary](https://github.com/sandybuana03/java-fundamental/blob/main/EkspresiKondisional.md)
+  17. [Statemen Switch](https://github.com/sandybuana03/java-fundamental/blob/main/StatemenSwitch.md)
+  
   
   
   ---
