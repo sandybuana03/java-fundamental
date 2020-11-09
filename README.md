@@ -20,6 +20,8 @@
   17. [Statemen Switch](https://github.com/sandybuana03/java-fundamental/blob/main/StatemenSwitch.md)
   18. [Perulangan While](https://github.com/sandybuana03/java-fundamental/blob/main/PerulanganWhile.md)
   19. [Perulangan For](https://github.com/sandybuana03/java-fundamental/blob/main/PerulanganFor.md)
+  20. [Break & Continue](https://github.com/sandybuana03/java-fundamental/blob/main/BreakandContinue.md)
+  
   
   
   
