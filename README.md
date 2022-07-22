@@ -1,7 +1,11 @@
 ## Fundamental Pemrograman Java
 
+### Download Netbeans 8.2 GOOGLE DRIVE
+[Netbeans 8.2 + JDK](https://drive.google.com/file/d/1to5-mH0fjZGri35WaSDUA1DLGPQIhVP_/view)
+
 ### Download Netbeans 8.2
 [Netbeans 8.2 + JDK 8u111](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
+
 
 ### BAB 0 Teori Pemrograman Java
   01. [Kata Kunci Java](https://github.com/sandybuana03/java-fundamental/blob/main/KataKunci.md)
