@@ -1,9 +1,9 @@
 ## Fundamental Pemrograman Java
 
-### Download Netbeans 8.2 GOOGLE DRIVE
-[Netbeans 8.2 + JDK](https://drive.google.com/file/d/1to5-mH0fjZGri35WaSDUA1DLGPQIhVP_/view)
+### Download Netbeans 8.2 (GOOGLE DRIVE)
+[Netbeans 8.2 + JDK 8u221](https://drive.google.com/file/d/1h5E5cLIeQWQYzaWxXjCKeqwv4PGuuuVj/view?usp=sharing)
 
-### Download Netbeans 8.2
+### Download Netbeans 8.2 (DIHAPUS ORACLE)
 [Netbeans 8.2 + JDK 8u111](https://www.oracle.com/technetwork/java/javase/downloads/jdk-netbeans-jsp-3413139-esa.html)
 
 
