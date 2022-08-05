@@ -32,7 +32,7 @@
   </tr>
    <tr align="center">
     <td>%</td>
-    <td>Sisa Pengurangan</td>
+    <td>Sisa Pembagian</td>
   </tr>
    <tr align="center">
     <td>++</td>
